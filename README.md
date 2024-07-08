@@ -1,1 +1,1 @@
-Hi Sir, I made this project for demo. It took me 5 days to make this project and I have used HTML JavaScript in this project. There were some errors in the beginning but later I solved them. This is the front page of Amazon.# amazon-1-log
+Hi Sir, I made this project for demo. It took me 5 days to make this project and I have used HTML CSs in this project. There were some errors in the beginning but later I solved them. This is the front page of Amazon.# amazon-1-log
